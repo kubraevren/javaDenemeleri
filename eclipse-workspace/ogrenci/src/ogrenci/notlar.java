@@ -1,0 +1,24 @@
+package ogrenci;
+import java.util.Scanner;
+
+public class notlar {
+
+	public static void main(String[] args) {
+		 /* Scanner input = new Scanner(System.in);
+			System.out.println("not giriniz:");
+			int OgrenciNotu = input.nextInt();
+			
+			if (OgrenciNotu >= 60) {
+				System.out.println("A");
+			System.out.println("lddldsf"); }
+			
+			else if (OgrenciNotu>= 50)
+				System.out.println("B");
+			
+			else {
+				System.out.println("C"); */
+			
+			
+	}
+
+}

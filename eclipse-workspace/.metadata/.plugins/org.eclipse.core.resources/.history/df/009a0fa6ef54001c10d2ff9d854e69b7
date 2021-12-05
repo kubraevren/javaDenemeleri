@@ -1,0 +1,22 @@
+package denemee;
+import java.util.Scanner;
+public class denemeeeeee1 {
+
+	public static void main(String[] args) {
+	
+		toplam = 0;
+		sayac = 1;
+		while (sayac <= 10)
+		Scanner input= new Scanner(System.in);
+		System.out.println("not deðerini giriniz:");
+		notDegeri = input.nextInt();
+		System.out.println(notDegeri);
+		toplam = toplam+notDegeri;
+		sayac = sayac+1;
+	
+	ortalama = toplam/10;
+	System.out.println(ortalama);
+
+	}
+
+}

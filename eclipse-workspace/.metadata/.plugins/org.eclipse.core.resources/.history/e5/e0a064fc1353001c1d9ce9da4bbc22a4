@@ -1,0 +1,22 @@
+package baslangic;
+
+import java.util.Scanner;
+
+public class Ýlkimbenim {
+
+	public static void main(String[] args) {
+	
+	Scanner input = new Scanner(System.in);
+	System.out.println("sayý giriniz:");
+	int sayi = input.nextInt();
+	
+	if (sayi > 100) 
+		System.out.println("büyük sayý");
+	if (sayi <= 50) 
+		System.out.println("aaaaaaaaaaaaaaaaaaa");
+		
+	
+	
+	}
+
+}

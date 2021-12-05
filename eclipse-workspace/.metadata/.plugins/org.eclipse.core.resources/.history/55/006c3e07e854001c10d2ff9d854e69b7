@@ -1,0 +1,10 @@
+package oporetorler;
+
+public class calisma {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

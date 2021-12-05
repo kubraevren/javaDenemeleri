@@ -1,0 +1,17 @@
+package baslangic;
+
+import java.util.Scanner;
+
+public class Ýlkimbenim {
+
+	public static void main(String[] args) {
+	
+	Scanner input = new Scanner(System.in);
+	int n;
+	System.out.println("sayý giriniz:");
+	n = input.nextInt();
+	System.out.println("sayý : "+ n);
+ 
+	}
+
+}

@@ -1,0 +1,26 @@
+package baslangic;
+
+import java.util.Scanner;
+
+public class Ýlkimbenim {
+
+	public static void main(String[] args) {
+	
+	/* Scanner input = new Scanner(System.in);
+	int n;
+	System.out.println("sayý giriniz:");
+	n = input.nextInt();
+	System.out.println("sayý : "+ n); */
+		
+	Scanner hatice = new Scanner(System.in);
+	int n,m ;
+	System.out.println("birinci sayýyý giriniz:");
+	n = hatice.nextInt();
+	
+	System.out.println("ikinci sayýyý giriniz:");
+	m = hatice.nextInt();
+	
+	System.out.println("deneme : " +(n +m) );
+	}
+
+}
